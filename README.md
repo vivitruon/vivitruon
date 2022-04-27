@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @vivitruon
-- 👀 I’m interested in web development
+- 💞️ I’m interested in web development and UX Design
 - 🌱 I’m currently learning HTML and CSS
-- 💞️ I’m looking to collaborate on UX Design
-- 📫 How to reach me: here :v
-Hi by the way, I don't know how to github :p
+- 📫 How to reach me: here! 
+Hi!!! I don't know how to github :p
 <!---
 vivitruon/vivitruon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
